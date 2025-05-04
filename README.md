@@ -52,6 +52,11 @@ Agnidrishti_Hardware/
 
 Developed as part of a smart IoT & Computer Vision Solution for fire and hazard detection in remote areas.
 
+## Achievements
+Finalist at the Smart Bengal Hackathon 2025
+
+Recognized for innovation in fire safety and detection technology
+
 ---
 
 Feel free to contribute or raise issues!
