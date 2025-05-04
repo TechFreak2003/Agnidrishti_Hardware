@@ -50,7 +50,7 @@ Agnidrishti_Hardware/
 
 ## 👨‍💻 Author
 
-Developed as part of a smart IoT solution for fire and hazard detection in remote areas.
+Developed as part of a smart IoT & Computer Vision Solution for fire and hazard detection in remote areas.
 
 ---
 
