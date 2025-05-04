@@ -1,4 +1,4 @@
-# Agnidrishti Hardware
+# Agnidrishti 
 
 Agnidrishti is a smart fire and gas detection system developed using ESP32-CAM, NEO-6M GPS, SIM800L GSM module, and integrated with Firebase. The system continuously monitors temperature, humidity, gas concentration, and flame presence, triggering instant alerts via SMS and logging data to a cloud database in real time.
 
