@@ -1,6 +1,12 @@
 # Agnidrishti Hardware
 
-Agnidrishti is a fire and gas detection system built using ESP32-CAM, GPS, GSM (SIM800L), and Firebase. It continuously monitors temperature, humidity, gas concentration, and flame detection and sends alerts with real-time location via SMS and cloud database logging.
+Agnidrishti is a smart fire and gas detection system developed using ESP32-CAM, NEO-6M GPS, SIM800L GSM module, and integrated with Firebase. The system continuously monitors temperature, humidity, gas concentration, and flame presence, triggering instant alerts via SMS and logging data to a cloud database in real time.
+
+A Raspberry Pi-based vision module is incorporated to enable image-based fire detection, enhancing situational awareness and accuracy. The entire system is optimized for remote and fire-prone locations, ensuring timely alerts and robust environmental sensing.
+
+## Key Purpose:
+
+Agnidrishti was specifically developed to address a critical data gap—providing reliable, real-time fire risk and incident datasets to the Government of West Bengal, which currently lacks an organized data infrastructure for fire monitoring and risk management. This system aims to support policy-making, disaster preparedness, and resource allocation through actionable intelligence.
 
 ## 🛠 Hardware Components
 
