@@ -1,8 +1,27 @@
 # Agnidrishti 
 
+
+![image](https://github.com/user-attachments/assets/d8908bd1-798d-4cd0-b6b3-619ba14cb35e)
+
 Agnidrishti is a smart fire and gas detection system developed using ESP32-CAM, NEO-6M GPS, SIM800L GSM module, and integrated with Firebase. The system continuously monitors temperature, humidity, gas concentration, and flame presence, triggering instant alerts via SMS and logging data to a cloud database in real time.
 
 A Raspberry Pi-based vision module is incorporated to enable image-based fire detection, enhancing situational awareness and accuracy. The entire system is optimized for remote and fire-prone locations, ensuring timely alerts and robust environmental sensing.
+
+## 📦 Repositories
+
+| Repo | Link |
+|------|------|
+| 🔗 Frontend Repo | [https://github.com/apu52/AgniDrishti/] |
+| 🔗 Backend Repo | [(https://github.com/Sebanti2003/agnidrishtibackend)] |
+| 🔗 Hardware Repo | [https://github.com/TechFreak2003/Agnidrishti_Hardware_SBH2025] |
+
+---
+
+## 📽️ Project Demonstration
+
+- 🎥 [Project Demo Video](https://drive.google.com/drive/folders/18cT6864HT63d2ENbc-OQHbwbxe04_LLZ?usp=sharing)  
+- 📊 [Pitch Deck](https://www.canva.com/design/DAGjX-3L7l0/qZjkXeM1r-pV1MvVvru4QA/edit?utm_content=DAGjX-3L7l0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)  
+- 🌐 [Live Demo](https://agni-drishti.vercel.app/)
 
 ## Key Purpose:
 
@@ -64,5 +83,29 @@ Finalist at the Smart Bengal Hackathon 2025
 Recognized for innovation in fire safety and detection technology
 
 ---
+
+## 🧑‍💻 Team Members
+
+| Name              | Branch | Degree | Year | University | Role         |
+|-------------------|--------|--------|------|------------|--------------|
+| Himadri Dey       | IT     | B.Tech | 3rd  | Netaji Subhash Engineering College | Backend Developer |
+| Sebanti Dasgupta  | CSE    | B.Tech | 3rd  | Netaji Subhash Engineering College | Backend Developer |
+| Suvrodeep Das     | CSE    | B.Tech | 3rd  | Netaji Subhash Engineering College | Hardware Expert |
+| Arpan Chowdhury   | CSE    | B.Tech | 3rd  | Netaji Subhash Engineering College | Frontend Developer |
+
+
+---
+
+## 🎓 Mentor
+
+- **Name:** Sukanta Bose  
+- **College:** Netaji Subhash Engineering College  
+- **Department:** IT
+
+---
+
+## 📫 Contact
+
+For queries or collaborations, feel free to contact us through GitHub or email!
 
 Feel free to contribute or raise issues!
